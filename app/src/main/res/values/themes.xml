@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.WavRouter" parent="android:Theme.Material.NoActionBar" />
+</resources>
